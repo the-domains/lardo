@@ -2,6 +2,7 @@ name: lardo
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.04527
+title: crazy stuff
 cta:
   domain: null
   bucket: null
