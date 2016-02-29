@@ -1,0 +1,28 @@
+name: lardo
+favicon: null
+layout_spectrum: 0.7011940232478082
+typography_spectrum: 0.015549719566479325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3170286782551557
+  lightness: 0.8487007608637214
+  saturation: 0.27106885029934347
+  rhythmicContrast: 0.26356279384344816
+purpose: []
