@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[lardo]]></title>
         <description><![CDATA[lardo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lardo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 21:41:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 21:57:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lardo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I put some text here just to fill the gap.]]></title>
+            <description><![CDATA[<article><h1>I put some text here just to fill the gap.</h1><p>And overhere I DO EXACTLY THE SAME!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6d39764cdc5deeb9c39380240c6914d77357cca.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lardo/5d86990e-3bf1-49a0-992d-8a9cf58d7586/index.html</link>
+            <guid isPermaLink="false">5d86990e-3bf1-49a0-992d-8a9cf58d7586</guid>
+            <pubDate>Mon, 29 Feb 2016 21:56:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just a simple test...]]></title>
-            <description><![CDATA[<article><h1>Just a simple test...</h1><p>Show me the money!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b3777d8-e789-4166-b5f5-01c0345d4c3b.jpg"></article>]]></description>
-            <link>undefinedjust-a-simple-test/index.html</link>
+            <description><![CDATA[<article><h1>Just a simple test...</h1><p>Show me the money!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/122d73cd84d45bb7b800f1b093243bb595281ff9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lardo/just-a-simple-test/index.html</link>
             <guid isPermaLink="false">6856c987-f3d7-4bd6-95dc-4bafd63fb304</guid>
             <pubDate>Mon, 29 Feb 2016 21:40:25 GMT</pubDate>
         </item>
