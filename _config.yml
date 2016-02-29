@@ -1,7 +1,7 @@
 name: lardo
 favicon: null
-layout_spectrum: 0.7011940232478082
-typography_spectrum: 0.015549719566479325
+layout_spectrum: 1
+typography_spectrum: 0.04527
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#030303'
+    - '#c70011'
+    - '#f9e9cb'
+    - '#b29162'
+    - '#005e66'
   brandStrength: 0.3170286782551557
   lightness: 0.8487007608637214
   saturation: 0.27106885029934347
